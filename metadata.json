@@ -1,0 +1,6 @@
+{
+  "name": "Counseling : fun education",
+  "description": "Counseling : fun education by Aditya Ranmale (AR CREATOR) — AI cognitive-split timetable engine with cancelable explanations, concise ChatStudy AI, and Explore hub featuring 12 unlimited educational games, customizable exam maker & board patterns, coin-based social media screen-time vault, and parent WhatsApp/SMS score reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
